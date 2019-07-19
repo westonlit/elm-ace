@@ -1,4 +1,4 @@
-var _DenisKolodin$elm_ace$Native_Ace = function() {
+var _westonlit$elm_ace$Native_Ace = function() {
 
 // TODO Check memory leaks
 // TODO Set options directly to Ace, maybe...
